@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/sc1sylyan/alphapsace
+    - export DEPLOYPATH=/home3/sc1sylyan/alphaspace
     - /bin/cp -R images $DEPLOYPATH
